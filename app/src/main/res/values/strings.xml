@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="city_name">New York</string>
+    <string name="day">SUNDAY</string>
+    <string name="date">FEB 18, 2022</string>
+    <string name="time">05 : 20 PM</string>
+    <string name="temp">29°</string>
+    <string name="weather_condition">CLOUDY</string>
+    <string name="we_condition">CLOUDY</string>
+    <string name="wind_direction">SOUTH</string>
+    <string name="wind_speed">4 MPH</string>
+    <string name="humidity_level">29%</string>
+</resources>
